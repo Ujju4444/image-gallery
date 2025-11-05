@@ -5,7 +5,7 @@ A responsive image gallery built using HTML and CSS.
 ### Features
 - Clean grid layout
 - Responsive design
-- Hover effects (if you added any)
+- Hover effects 
 - Simple and fast UI
 
 ### Tech Stack
@@ -13,4 +13,4 @@ A responsive image gallery built using HTML and CSS.
 - CSS
 
 ### Live Demo
-[Add link after deployment]
+https://ujju4444.github.io/image-gallery/
