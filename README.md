@@ -15,6 +15,9 @@ A responsive image gallery built using HTML and CSS.
 ### Live Demo
 https://ujju4444.github.io/image-gallery/
 
-![Gallery Preview](images/preview.jpg)
+### Screenshot
+
+<img src="images/preview.jpg" alt="Project preview" width="600">
+
 
 
